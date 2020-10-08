@@ -11,7 +11,7 @@ It contains different type of questions from different topic with proper describ
 
 Get a fork/copy of this repository by clicking on <a href="https://github.com/Jaidev2001/DSA-Q/fork"><kbd><b>Fork</b></kbd></a> button.
 
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/Jaidev2001/DSA-Q/fork)
+[![Fork Button](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)](https://github.com/Jaidev2001/DSA-Q/fork)
 
 ### 2. Clone it :busts_in_silhouette:
 
